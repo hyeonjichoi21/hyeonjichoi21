@@ -81,3 +81,84 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjichoi21&layout=compact&hide=html,css&exclude_repo=landing-template,test-css&theme=default" />
 </p>
 
+### 💼 Main Projects
+<table align="center">
+  <thead>
+    <tr>
+      <th>NAME</th>
+      <th>DESCRIPTION</th>
+      <th>LINK</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>BapZip</strong></td>
+      <td>실시간 캠퍼스 식당 정보 서비스</td>
+      <td><a href="https://github.com/BapZip/Backend">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>온음</strong></td>
+      <td>전화 상담원의 인권 보호를 위한 AI 음성 필터링 및 법률 상담 챗봇 시스템</td>
+      <td><a href="https://github.com/CallProtector/CallProtector_BE">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>알농이</strong></td>
+      <td>실시간 시세 알림과 그래프로 수익을 지키는 농사 플랫폼</td>
+      <td><a href="https://github.com/AgriData-Lab">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>Munzii</strong></td>
+      <td>택배 차량을 이용한 우리 동네 미세먼지 측정 시스템</td>
+      <td><a href="https://github.com/Munzii2023/munzii">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>다이어터</strong></td>
+      <td>당신을 위한 다이어트 레시피 커뮤니티</td>
+      <td><a href="https://github.com/Yorieter/UMC-Yorieter_BE">Repository</a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 📁 Other Projects
+<table align="center">
+  <thead>
+    <tr>
+      <th>NAME</th>
+      <th>DESCRIPTION</th>
+      <th>LINK</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>지구더구</strong></td>
+      <td>교내 환경 보호 서비스 (분리수거 지도, 리사이클 커뮤니티)</td>
+      <td><a href="https://github.com/EarthDuk11/Frontend">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>쇼핑몰</strong></td>
+      <td>인터넷-프로그래밍 수업</td>
+      <td><a href="https://github.com/hyeonjichoi21/Django22_Shop">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>빅데이터</strong></td>
+      <td>빅데이터 수업</td>
+      <td><a href="https://github.com/hyeonjichoi21/BigData">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>소분설</strong></td>
+      <td>소프트웨어분석설계 수업</td>
+      <td><a href="https://github.com/hyeonjichoi21/Software_Design">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>투두앱</strong></td>
+      <td>웹프로그래밍응용 수업</td>
+      <td>
+        <a href="https://github.com/hyeonjichoi21/todo-springboot-app">Spring Boot</a> /
+        <a href="https://github.com/hyeonjichoi21/todo-react-app">React</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
