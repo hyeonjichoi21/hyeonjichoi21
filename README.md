@@ -70,3 +70,8 @@
 
 ### 💡 Motto
 <p align="center"><i>"하루에 한 줄이라도 성장하는 개발자가 되자."</i></p>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hyeonjichoi21&show_icons=true&theme=default" />
+</p>
