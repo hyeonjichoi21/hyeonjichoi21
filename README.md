@@ -82,83 +82,10 @@
 </p>
 
 ### 💼 Main Projects
-<table align="center">
-  <thead>
-    <tr>
-      <th>NAME</th>
-      <th>DESCRIPTION</th>
-      <th>LINK</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>BapZip</strong></td>
-      <td>실시간 캠퍼스 식당 정보 서비스</td>
-      <td><a href="https://github.com/BapZip/Backend">Repository</a></td>
-    </tr>
-    <tr>
-      <td><strong>온음</strong></td>
-      <td>전화 상담원의 인권 보호를 위한 AI 음성 필터링 및 법률 상담 챗봇 시스템</td>
-      <td><a href="https://github.com/CallProtector/CallProtector_BE">Repository</a></td>
-    </tr>
-    <tr>
-      <td><strong>알농이</strong></td>
-      <td>실시간 시세 알림과 그래프로 수익을 지키는 농사 플랫폼</td>
-      <td><a href="https://github.com/AgriData-Lab">Repository</a></td>
-    </tr>
-    <tr>
-      <td><strong>Munzii</strong></td>
-      <td>택배 차량을 이용한 우리 동네 미세먼지 측정 시스템</td>
-      <td><a href="https://github.com/Munzii2023/munzii">Repository</a></td>
-    </tr>
-    <tr>
-      <td><strong>다이어터</strong></td>
-      <td>당신을 위한 다이어트 레시피 커뮤니티</td>
-      <td><a href="https://github.com/Yorieter/UMC-Yorieter_BE">Repository</a></td>
-    </tr>
-  </tbody>
-</table>
+<table align="center"> <thead> <tr> <th>📌 Name</th> <th>📝 Description</th> <th>🧰 Stack</th> <th>🔗 Link</th> </tr> </thead> <tbody> <tr> <td><strong>BapZip</strong></td> <td>실시간 캠퍼스 식당 정보 서비스</td> <td> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> </td> <td><a href="https://github.com/BapZip/Backend">Repository</a></td> </tr> <tr> <td><strong>온음</strong></td> <td>AI 음성 필터링 및 법률 상담 챗봇 시스템</td> <td> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> </td> <td><a href="https://github.com/CallProtector/CallProtector_BE">Repository</a></td> </tr> <tr> <td><strong>알농이</strong></td> <td>농사 시세 알림 및 수익 분석 플랫폼</td> <td> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> </td> <td><a href="https://github.com/AgriData-Lab">Repository</a></td> </tr> <tr> <td><strong>Munzii</strong></td> <td>택배 차량을 활용한 미세먼지 측정 시스템</td> <td> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" /> </td> <td><a href="https://github.com/Munzii2023/munzii">Repository</a></td> </tr> <tr> <td><strong>다이어터</strong></td> <td>다이어트 레시피 커뮤니티</td> <td> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> </td> <td><a href="https://github.com/Yorieter/UMC-Yorieter_BE">Repository</a></td> </tr> </tbody> </table>
 
 ---
 
 ### 📁 Other Projects
-<table align="center">
-  <thead>
-    <tr>
-      <th>NAME</th>
-      <th>DESCRIPTION</th>
-      <th>LINK</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>지구더구</strong></td>
-      <td>교내 환경 보호 서비스 (분리수거 지도, 리사이클 커뮤니티)</td>
-      <td><a href="https://github.com/EarthDuk11/Frontend">Repository</a></td>
-    </tr>
-    <tr>
-      <td><strong>쇼핑몰</strong></td>
-      <td>인터넷-프로그래밍 수업</td>
-      <td><a href="https://github.com/hyeonjichoi21/Django22_Shop">Repository</a></td>
-    </tr>
-    <tr>
-      <td><strong>빅데이터</strong></td>
-      <td>빅데이터 수업</td>
-      <td><a href="https://github.com/hyeonjichoi21/BigData">Repository</a></td>
-    </tr>
-    <tr>
-      <td><strong>소분설</strong></td>
-      <td>소프트웨어분석설계 수업</td>
-      <td><a href="https://github.com/hyeonjichoi21/Software_Design">Repository</a></td>
-    </tr>
-    <tr>
-      <td><strong>투두앱</strong></td>
-      <td>웹프로그래밍응용 수업</td>
-      <td>
-        <a href="https://github.com/hyeonjichoi21/todo-springboot-app">Spring Boot</a> /
-        <a href="https://github.com/hyeonjichoi21/todo-react-app">React</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<table align="center"> <thead> <tr> <th>📌 Name</th> <th>📝 Description</th> <th>🧰 Stack</th> <th>🔗 Link</th> </tr> </thead> <tbody> <tr> <td><strong>지구더구</strong></td> <td>교내 환경 보호 플랫폼</td> <td> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> </td> <td><a href="https://github.com/EarthDuk11/Frontend">Repository</a></td> </tr> <tr> <td><strong>쇼핑몰</strong></td> <td>인터넷-프로그래밍 수업</td> <td> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/PyCharm-1C1C1C?style=flat-square&logo=pycharm&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> </td> <td><a href="https://github.com/hyeonjichoi21/Django22_Shop">Repository</a></td> </tr> <tr> <td><strong>빅데이터</strong></td> <td>빅데이터 수업</td> <td> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Spyder-FF0000?style=flat-square&logo=spyderide&logoColor=white" /> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" /> </td> <td><a href="https://github.com/hyeonjichoi21/BigData">Repository</a></td> </tr> <tr> <td><strong>소분설</strong></td> <td>소프트웨어분석설계 수업</td> <td> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> </td> <td><a href="https://github.com/hyeonjichoi21/Software_Design">Repository</a></td> </tr> <tr> <td><strong>투두앱</strong></td> <td>웹프로그래밍응용 수업</td> <td> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" /> </td> <td> <a href="https://github.com/hyeonjichoi21/todo-springboot-app">Spring Boot</a> / <a href="https://github.com/hyeonjichoi21/todo-react-app">React</a> </td> </tr> </tbody> </table>
 
