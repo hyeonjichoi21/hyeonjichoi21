@@ -49,15 +49,20 @@
 
 ---
 
-### 📫 Contact
+---
+
+### 💡 경험해본 기술
 <p align="center">
-  <a href="mailto:hyunji.choi@example.com">
-    <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://your-notion-link-here">
-    <img src="https://img.shields.io/badge/Notion Portfolio-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
+
 
 ---
 
