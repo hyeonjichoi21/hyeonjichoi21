@@ -76,7 +76,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hyeonjichoi21&show_icons=true&theme=default" />
 </p>
 
-### 📈 Top Languages
+### 📈 Top Languages (Top 4)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjichoi21&layout=compact&hide=html,css&exclude_repo=landing-template,test-css&theme=default" />
 </p>
