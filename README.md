@@ -73,5 +73,5 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyeonjichoi21&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&hide_rank=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hyeonjichoi21&show_icons=true&theme=default" />
 </p>
