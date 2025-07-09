@@ -89,3 +89,22 @@
 ### 📁 Other Projects
 <table align="center"> <thead> <tr> <th>📌 Name</th> <th>📝 Description</th> <th>🧰 Stack</th> <th>🔗 Link</th> </tr> </thead> <tbody> <tr> <td><strong>지구더구</strong></td> <td>교내 환경 보호 플랫폼</td> <td> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> </td> <td><a href="https://github.com/EarthDuk11/Frontend">Repository</a></td> </tr> <tr> <td><strong>쇼핑몰</strong></td> <td>인터넷-프로그래밍 수업</td> <td> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/PyCharm-1C1C1C?style=flat-square&logo=pycharm&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> </td> <td><a href="https://github.com/hyeonjichoi21/Django22_Shop">Repository</a></td> </tr> <tr> <td><strong>빅데이터</strong></td> <td>빅데이터 수업</td> <td> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Spyder-FF0000?style=flat-square&logo=spyderide&logoColor=white" /> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" /> </td> <td><a href="https://github.com/hyeonjichoi21/BigData">Repository</a></td> </tr> <tr> <td><strong>소분설</strong></td> <td>소프트웨어분석설계 수업</td> <td> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> </td> <td><a href="https://github.com/hyeonjichoi21/Software_Design">Repository</a></td> </tr> <tr> <td><strong>투두앱</strong></td> <td>웹프로그래밍응용 수업</td> <td> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" /> </td> <td> <a href="https://github.com/hyeonjichoi21/todo-springboot-app">Spring Boot</a> / <a href="https://github.com/hyeonjichoi21/todo-react-app">React</a> </td> </tr> </tbody> </table>
 
+
+### 💬 Activities & Awards
+
+#### 📌 교내외 활동
+- **개발 동아리**  
+  ‣ `Babzip`, `Yorieter` 프로젝트 백엔드 개발 참여 (2023, 2024)  
+- **신한투자증권 블록체인스크럼 IT부서 인턴십** *(2024.09 – 2024.12)*  
+- **한이음 드림업 컴퓨터공학전공 졸업프로젝트** *(2024.05 – 진행 중)*  
+- **농림축산식품 공공데이터 경진대회 참가** *(2025.05 – 진행 중)*  
+- **ICT 한이음 멘토링 자율형 프로젝트 참여** *(2023.04 – 2023.11)*  
+- **SQLD 자격증 취득** *(2023.05)*  
+- **씨큐브 코딩 학원 강사(파트타이머)** *(2023.09 – 재직 중)*
+- **UMC 6th 해커톤 백엔드 파트 참여** *(2024.07.04 - 05)*
+- **덕성여대 네트워크 과목 튜터링** *(2025.03 – 2025.06)*
+
+#### 🏅 교내 수상 내역
+- 덕성여대 과학기술대학 **학술제 장려상** *(2021.09 – 2021.12)*  
+- 덕성여대 과학기술대학 **학술제 장려상** *(2023.09 – 2023.12)*  
+- 덕성여대 **데이터톤 장려상** *(2023.09 – 2023.12)*  
