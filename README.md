@@ -1,6 +1,6 @@
 <!-- 타이틀 배너 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6aa5ff,100:2b6cb0&height=180&section=header&text=Hi%20I'm%20Hyunji%20Choi&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffafbd,ffc3a0,fdffbc&height=180&section=header&text=Hi%20I'm%20Hyunji%20Choi&fontSize=30&fontColor=ffffff" />
 </div>
 
 <!-- 소개 -->
