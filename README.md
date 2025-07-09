@@ -1,1 +1,55 @@
-"# hyeonjichoi21" 
+<!-- 타이틀 배너 (원하면 capsule-render도 가능) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6aa5ff,100:2b6cb0&height=180&section=header&text=Hi%20I'm%20Hyunji%20Choi&fontSize=30&fontColor=ffffff" />
+</div>
+
+<!-- 소개 -->
+<h2 align="center">👋 Welcome to Hyunji's GitHub!</h2>
+<p align="center">📌 백엔드 개발자를 꿈꾸며, 끊임없이 배우고 도전합니다.</p>
+<p align="center">✨ 협업과 커뮤니케이션을 중요하게 생각하며, 기술로 문제를 해결하는 걸 즐깁니다!</p>
+
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### 📚 Studying
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+---
+
+### ⚙ Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" />
+</p>
+
+---
+
+### 📫 Contact
+<p align="center">
+  <a href="mailto:hyunji.choi@example.com">
+    <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://your-notion-link-here">
+    <img src="https://img.shields.io/badge/Notion Portfolio-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💡 Motto
+<p align="center"><i>"하루에 한 줄이라도 성장하는 개발자가 되자."</i></p>
