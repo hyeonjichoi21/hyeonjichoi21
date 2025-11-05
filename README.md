@@ -125,3 +125,13 @@
 - 덕성여대 과학기술대학 **학술제 장려상** *(2021.09 – 2021.12)*  
 - 덕성여대 과학기술대학 **학술제 장려상** *(2023.09 – 2023.12)*  
 - 덕성여대 **데이터톤 장려상** *(2023.09 – 2023.12)*  
+
+
+<p align="center">
+🦋 Thanks for Visiting!
+</p>
+  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffafbd,50:ffc3a0,100:fdffbc&height=180&section=footer&text=꾸준히%20배우고%20성장하는%20백엔드%20개발자,%20최현지%20입니다:%29&fontSize=23&fontColor=ffffff" />
+</div>
+
